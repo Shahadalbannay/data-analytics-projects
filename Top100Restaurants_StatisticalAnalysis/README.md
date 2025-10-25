@@ -1,0 +1,1 @@
+A statistical analysis document done by Shahad Albannay, Zahraa Alalawi, and Salamah Alghazal for the Introduction of Business Analysis Course, which was supervised by Dr. Muhanad Abdulaziz Alkanaan in 2023. 
