@@ -86,4 +86,4 @@ Foreign key constraints were enforced to maintain referential integrity between 
 ## Author
 **Shahad Albannay**  
 Management Information Systems (MIS) Graduate  
-Aspiring Data Analyst / BI Analyst / Market Intelligence Analyst
+Aspiring Data Analyst / BI Analyst / Business Analyst / Market Intelligence Analyst
